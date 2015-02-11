@@ -20,6 +20,10 @@ This plugin disable auto-generated registration password and allow users to crea
 Install the plugin into the `/wp-content/plugins/` folder, and activate it. That's it. No need to do anything. 
 
 
+== Screenshots ==
+
+1. Plugin appearance
+
 
 == Changelog ==
 
